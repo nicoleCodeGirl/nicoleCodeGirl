@@ -1,5 +1,7 @@
-[![Header](https://github.com/nicoleCodeGirl/nicoleCodeGirl/assets/106888012/a7f8e953-7881-4f9b-9461-db31d3177e92 "Header")](https://docs.google.com/document/d/1I3ocJhs7XfjQ5yQ59Eert1Etk-zfELsoQPLbJI7ZpPs/edit?usp=sharing
-)
+### Take a look at my resume:
+
+[![My Resume](https://img.shields.io/badge/My_Resume-Google_Docs_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/viewer?url=https://github.com/nicoleCodeGirl/nicoleCodeGirl/raw/main/Bradley_Resume_webDevelopment%20-%20Google%20Docs.pdf)
+
 
 ### Please check out my LinkedIn profile, and follow me there too
 
