@@ -9,4 +9,4 @@
 
 ### Here are my GitHUb Stats
 
-[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleCodeGirl)](https://github.com/nicoleCodeGirl/github-readme-stats)
+![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleCodeGirl&theme=ambient_gradient&show_icons=true)
