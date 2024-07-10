@@ -1,6 +1,6 @@
 # :purple_heart: Hi, I'm NicoleCodeGirl! :purple_heart:
 
-<script src="https://tryhackme.com/badge/3051493"></script>
+[![my TryHackMe Badge] (https://tryhackme.com/badge/3051493)]
 
 ### Take a look at my resume:
 
