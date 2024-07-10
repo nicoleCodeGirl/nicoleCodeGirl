@@ -1,7 +1,5 @@
 # :purple_heart: Hi, I'm NicoleCodeGirl! :purple_heart:
 
-[![my TryHackMe Badge] (https://tryhackme.com/badge/3051493)]
-
 ### Take a look at my resume:
 
 [![My Resume](https://img.shields.io/badge/My_Resume-Google_Docs_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/viewer?url=https://github.com/nicoleCodeGirl/nicoleCodeGirl/raw/main/Bradley_Resume_webDevelopment%20-%20Google%20Docs.pdf)
