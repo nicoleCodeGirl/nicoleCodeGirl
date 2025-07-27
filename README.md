@@ -13,8 +13,7 @@
 
 [![Play Memory Game](https://img.shields.io/badge/Play-Memory_Game-brightgreen?style=for-the-badge)](https://memorygame-production-e90d.up.railway.app/)
 
-[![Deployed on Railway](https://img.shields.io/badge/Railway-Deployed-4f2cfa?logo=railway&logoColor=white)](https://railway.app/)
-
+[![Deployed on Railway](https://img.shields.io/badge/Railway-Deployed-4f2cfa?logo=railway&logoColor=white&style=for-the-badge)](https://railway.app/)
 ### Here are my GitHub Stats
 
 ![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoleCodeGirl&theme=ambient_gradient&show_icons=true)
