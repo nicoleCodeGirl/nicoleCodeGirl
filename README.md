@@ -12,7 +12,7 @@
 
 ### Memory Game Preview
 
-![Description](./images/gif_20percent.gif)
+![Description](./images/memorygame.gif)
 
 ### Here are my GitHub Stats
 
